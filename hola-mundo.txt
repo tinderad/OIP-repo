@@ -2,3 +2,5 @@ Hola, mundo!
 
 Здесь был Петя
 Здесь был Вася
+
+Thats for master
